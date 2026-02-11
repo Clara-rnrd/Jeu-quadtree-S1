@@ -1,0 +1,15 @@
+{
+    "DebugMode": true,
+    "NumTileX": 9,
+    "NumTileY": 9,
+    "TileSize": 16,
+    "NumCharacterAnimImages": 4,
+    "NumFramePerCharacterAnimImage": 5,
+    "NumTileForDebug": 6,
+    "CameraMode": 2,
+    "FloorKind": 2,
+    "FloorFile": "../floor-files/validation",
+    "EnableRandomTerrain": true,
+    "SaveFloorGenerated": false,
+    "BlockWater": true
+}

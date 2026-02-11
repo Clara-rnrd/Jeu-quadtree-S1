@@ -1,0 +1,30 @@
+# --- SECTION GOLANG ---
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+go.work
+# On ignore les binaires compilés (souvent mis dans un dossier bin ou à la racine)
+/bin/
+/projet-dev-quadtree
+
+# --- SECTION VS CODE ---
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+*.code-workspace
+
+# --- SECTION OS (Système) ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
